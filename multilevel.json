@@ -1,0 +1,83 @@
+[
+   {
+      "﻿ID": 1,
+      "Galaxy": "Milky Way -1",
+      "Constellation": "Orion",
+      "Stars": "Orion_Star1",
+      "Planets": "Orion_Star1_Planet1",
+      "Item Type": "Item",
+      "Path ": "Lists/Multilevel data Assignment "
+   },
+   {
+      "﻿ID": 2,
+      "Galaxy": "Milky Way -2",
+      "Constellation": "Orion",
+      "Stars": "Orion_Star1",
+      "Planets": "Orion_Star1_Planet2",
+      "Item Type": "Item",
+      "Path ": "Lists/Multilevel data Assignment "
+   },
+   {
+      "﻿ID": 3,
+      "Galaxy": "Milky Way -3",
+      "Constellation": "Orion",
+      "Stars": "Orion_Star1",
+      "Planets": "Orion_Star1_Planet3",
+      "Item Type": "Item",
+      "Path ": "Lists/Multilevel data Assignment "
+   },
+   {
+      "﻿ID": 4,
+      "Galaxy": "Milky Way -4",
+      "Constellation": "Orion",
+      "Stars": "Orion_Star2",
+      "Planets": "Orion_Star2_Planet1",
+      "Item Type": "Item",
+      "Path ": "Lists/Multilevel data Assignment "
+   },
+   {
+      "﻿ID": 5,
+      "Galaxy": "Milky Way -5",
+      "Constellation": "Orion",
+      "Stars": "Orion_Star2",
+      "Planets": "Orion_Star2_Planet2",
+      "Item Type": "Item",
+      "Path ": "Lists/Multilevel data Assignment "
+   },
+   {
+      "﻿ID": 6,
+      "Galaxy": "Milky Way -6",
+      "Constellation": "Orion",
+      "Stars": "Orion_Star2",
+      "Planets": "Orion_Star2_Planet3",
+      "Item Type": "Item",
+      "Path ": "Lists/Multilevel data Assignment "
+   },
+   {
+      "﻿ID": 7,
+      "Galaxy": "Milky Way -7",
+      "Constellation": "Orion",
+      "Stars": "Orion_Star2",
+      "Planets": "Orion_Star2_Planet4",
+      "Item Type": "Item",
+      "Path ": "Lists/Multilevel data Assignment "
+   },
+   {
+      "﻿ID": 8,
+      "Galaxy": "Milky Way -8",
+      "Constellation": "Scorpius",
+      "Stars": "Scorpius_Star1",
+      "Planets": "Scorpius_Star1_Planet1",
+      "Item Type": "Item",
+      "Path ": "Lists/Multilevel data Assignment "
+   },
+   {
+      "﻿ID": 9,
+      "Galaxy": "Milky Way 9",
+      "Constellation": "Scorpius",
+      "Stars": "Scorpius_Star1",
+      "Planets": "Scorpius_Star1_Planet2",
+      "Item Type": "Item",
+      "Path ": "Lists/Multilevel data Assignment "
+   }
+]
